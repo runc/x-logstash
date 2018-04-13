@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xlogstash-collector" />
+        <module name="xlogstash-collector-beats" />
+        <module name="xlogstash-framework" />
+        <module name="xlogstash-netty-beats" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="x-logstash" target="1.5" />
+      <module name="xlogstash-collector" target="1.5" />
+      <module name="xlogstash-collector-beats" target="1.5" />
+      <module name="xlogstash-framework" target="1.5" />
+      <module name="xlogstash-netty-beats" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/x-logstash.iml" filepath="$PROJECT_DIR$/x-logstash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlogstash-collector/xlogstash-collector.iml" filepath="$PROJECT_DIR$/xlogstash-collector/xlogstash-collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlogstash-collector-beats/xlogstash-collector-beats.iml" filepath="$PROJECT_DIR$/xlogstash-collector-beats/xlogstash-collector-beats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlogstash-framework/xlogstash-framework.iml" filepath="$PROJECT_DIR$/xlogstash-framework/xlogstash-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlogstash-netty-beats/xlogstash-netty-beats.iml" filepath="$PROJECT_DIR$/xlogstash-netty-beats/xlogstash-netty-beats.iml" />
+    </modules>
+  </component>
+</project>
